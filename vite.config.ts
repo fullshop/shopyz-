@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/shopyZ-/', // This must match your GitHub repository name
+  base: '/shopyz-/', // This must match your GitHub repository name
   resolve: {
     alias: {
       '@': path.resolve(__dirname, '.'),
