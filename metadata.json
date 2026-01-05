@@ -1,7 +1,0 @@
-{
-  "name": "shopyZ",
-  "description": "A premium Algerian e-commerce platform featuring an AI-powered shopping assistant, dynamic product descriptions, and a modern minimalist design.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
